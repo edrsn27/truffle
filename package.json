@@ -1,0 +1,14 @@
+{
+    "name": "eth-swap",
+    "version": "0.1.0",
+    "description": "An Instant ERC-20 Cryptocurrency Exchange",
+    "author": "edersonvillegas50@gmail.com",
+    "dependencies": {
+        "bootstrap": "4.3.1",
+        "chai": "4.2.0",
+        "chai-as-promised": "7.1.1",
+        "chai-bignumber": "3.0.0",
+        "truffle": "5.0.5",
+        "web3": "1.0.0-beta.55"
+    }
+}
